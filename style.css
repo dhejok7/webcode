@@ -1,0 +1,31 @@
+h6{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px; 
+    color:rgb(159, 217, 51);
+}
+
+div{
+    text-align: center;
+    font-Family: normal;
+    color:rgb(0, 0, 0)
+}
+
+#country{
+   margin-top: 70px;
+   
+}
+
+p{
+    color:rgb(96, 235, 54)
+}
+#name {
+    border-radius: 4px;
+    margin-right: 10px;
+    box-shadow: 0 4px 48px 0 rgb(0 0 0 /20%);
+}
+body {
+    background-image: url("bg-image.webp.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+  }
